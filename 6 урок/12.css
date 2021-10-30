@@ -1,0 +1,32 @@
+p{
+    color: bisque;
+    font-size: 25px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+h1{
+    text-align: center;
+    background-color: aqua;
+    font-size: 40px;
+    margin-left: 250px;
+    margin-right: 250px;
+    float: none;
+   }
+   html{
+    background-image: url(нуро.jpg); 
+}
+div{
+    margin-left: 180px;
+    margin-right: 40px;
+    font-size: 25px;
+    margin-top: 40px;
+    background-color: rgb(221, 134, 134);
+   height: 42px;
+   color: rgb(30, 212, 17);
+   text-align: center;
+}
+.w{
+    float: left;
+    width:800px ;
+    height:710px;
+}
